@@ -1,2 +1,3 @@
+# DominoGame
 
-A domino game written in java within the course of Object Oriented Programming in the CSD of Aristotle University of Thessaloniki. It has a GUI run in the "videoGame.java" file.
+A Domino game written in **Java** within the course of Object Oriented Programming in the CSD of Aristotle University of Thessaloniki. It uses a GUI in the "videoGame.java" file.
